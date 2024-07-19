@@ -1,4 +1,4 @@
-## Olá, Tudo bem!? Sou a Ruth prazer em conhecer você!
+## Olá, Tudo bem!? Sou a Ruth, prazer em conhecer você!
 
 <div align="center">
   <a href="https://github.com/ruthgomes">
