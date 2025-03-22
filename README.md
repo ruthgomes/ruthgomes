@@ -11,6 +11,7 @@ Contato Serviços — Estagiária de Desenvolvimento Full Stack
 Criação de automações e integrações utilizando Make, Monday.com, e Websocket.
 Desenvolvimento Web com Next.js, Python e MongoDB.
 Desenvolvimento Mobile com React Native.
+
 Broker Amazônia — Jovem Aprendiz - DHO (Desenvolvimento Humano e Organizacional)
  📅 2023 – 2024
 Apoio nos processos de recrutamento, seleção e integração.
