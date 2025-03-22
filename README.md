@@ -1,39 +1,42 @@
 ## Olá, Tudo bem!? Sou a Ruth, prazer em conhecer você!
-👥 Sobre Mim:
-Em um mundo cada vez mais digital, a tecnologia emerge como o fio condutor que conecta mentes curiosas a um vasto universo de possibilidades. No epicentro dessa revolução, encontra-se EU, uma moça apaixonada por tecnologia, amo aprender, sou muito curiosa, trabalho com determinação, muito esforçada e estou sempre buscando inovação e excelência.
+🎯 Objetivo
+Atuar na área de desenvolvimento de software como Desenvolvedora Full Stack, contribuindo com habilidades em automação, desenvolvimento web e mobile, e integração de sistemas.
 
+🧠 Resumo Profissional
+Estudante de Engenharia de Software com formação técnica em Informática e Automação Industrial. Experiência prática como estagiária em desenvolvimento full stack e automações de processos, além de vivência anterior no setor de Recursos Humanos. Perfil dinâmico, comunicativo, com facilidade para trabalhar em equipe e forte interesse em resolver problemas por meio da tecnologia.
 
-🎓 Educação:
-Faculdade Metropolitana de Manaus (FAMETRO) | Engenharia de Software
+💼 Experiência Profissional
+Contato Serviços — Estagiária de Desenvolvimento Full Stack
+ 📅 Mar/2025 – Atual
+Criação de automações e integrações utilizando Make, Monday.com, e Websocket.
+Desenvolvimento Web com Next.js, Python e MongoDB.
+Desenvolvimento Mobile com React Native.
+Broker Amazônia — Jovem Aprendiz - DHO (Desenvolvimento Humano e Organizacional)
+ 📅 2023 – 2024
+Apoio nos processos de recrutamento, seleção e integração.
+Suporte à área de treinamento e desenvolvimento.
+Participação em rotinas de folha de pagamento, férias e admissões.
+Utilização de sistemas como Senior Sistemas.
 
-📚 Cursos Extracurriculares:
-Técnico em Automação Industrial (FPF e-tech)
-Técnico em Informática (IEMAC)
-Operador de Computador (SENAI)
-Analista de rede de computadores (SENAI)
-Analista de segurança em rede de computadores (SENAI)
+🎓 Formação Acadêmica
+FAMETRO – Faculdade Metropolitana de Manaus
+ 📚 Engenharia de Software | 2023 – 2027 (cursando)
+ETECH – Escola Tecnológica da FPFTech
+ 📚 Técnico em Automação Industrial | 2023 – 2025
+IEMAC – Instituto de Educação Professor Marchelli de Almeida Chispim
+ 📚 Técnico em Informática | 2021 – 2022
 
-💼 Habilidades:
-Desenvolvimento Web:
-1. HTML/CSS
-2. JavaScript
-3. Frameworks Front-end: React.js, Angular e Vue.js.
-4. Frameworks Back-end: Node.js, Django, Flask, Ruby on Rails
-5. Banco de Dados: MySQL, PostgreSQL e MongoDB
-6. Design Responsivo
-7. APIs
-
-🌟Embarcados:
-1. Conhecimento em Eletrônica e Hardware
-2. Programação Embarcada: C e C++
-3. Conectividade e Protocolos de Comunicação: MQTT, CoAP, HTTP, Wi-Fi, Bluetooth, Zigbee, LoRa.
-4.Segurança da Informação
-5. Desenvolvimento de Software: Python, Node.js.
-6. Plataformas e Frameworks IoT: AWS IoT, Azure IoT, Google Cloud IoT, Arduino, Raspberry Pi.
-7. Conhecimento em Cloud Computing:
+💻 Habilidades Técnicas
+Linguagens: JavaScript, TypeScript, Python, C, C++
+ Front-End: React.js, Angular
+ Back-End: Node.js, .NET
+ Mobile: React Native
+ Bancos de Dados: MongoDB, MySQL e PostgreSQLr
+ Automação: Make Automation Software, Monday.com
+ Outros: Websocket, Git, GitHub, APIs REST, Conhecimentos em Eletrônica e Programação Embarcada
 
 🌐 Idiomas:
-Inglês | Básico
+Inglês – Intermediário (leitura técnica)
 Espanhol | Básico
 
 📧 Contato:
